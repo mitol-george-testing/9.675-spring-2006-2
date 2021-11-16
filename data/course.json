@@ -1,0 +1,31 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Computational Modeling and Simulation"
+    ],
+    [
+      "Science",
+      "Cognitive Science"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "c2ff1985-3a53-6817-6310-f9326c668333"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "The Development of Object and Face Recognition",
+  "course_description": "This course takes a 'back to the beginning' view that aims to better understand the end result. What might be the developmental processes that lead to the organization of 'booming, buzzing confusions' into coherent visual objects? This course examines key experimental results and computational proposals pertinent to the discovery of objects in complex visual inputs. The structure of the course is designed to get students to learn and to focus on the genre of study as a whole; to get a feel for how science is done in this field.\n",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "9.675",
+  "learning_resource_types": [
+    "Presentation Assignments"
+  ],
+  "title": "Course Metadata"
+}
